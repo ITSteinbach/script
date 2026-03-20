@@ -8,18 +8,17 @@ in der Anwendungsentwicklung und Mediengestaltung.
 ## 📂 Struktur
 
 
+| Ordner | Beschreibung |
 
-	| Ordner | Beschreibung |
+| :--- | :--- |
 
-	| :--- | :--- |
+| `01_media` | Tools für Bild- und Assetverarbeitung (Pillow, etc.) |
 
-	| `01_media` | Tools für Bild- und Assetverarbeitung (Pillow, etc.) |
+| `02_automation` | Dateimanagement und System-Utilities |
 
-	| `02_automation` | Dateimanagement und System-Utilities |
+| `03_web` | Web-Scraper und API-Tools |
 
-	| `03_web` | Web-Scraper und API-Tools |
-
-	| `04_dev_utils` | Code-Snippets und Helper für die Entwicklung |
+| `04_dev_utils` | Code-Snippets und Helper für die Entwicklung |
 
 
 
@@ -44,4 +43,5 @@ in der Anwendungsentwicklung und Mediengestaltung.
 
 
 ---
+
 *Erstellt von egoclinch.*
